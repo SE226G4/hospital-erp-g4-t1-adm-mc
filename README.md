@@ -5,21 +5,27 @@
 ---
 
 ## 📝 Module Overview
-Provide a brief description of what this module does based on the project text. (e.g., This module manages operating room schedules and prevents booking conflicts).
+The Admission & Medical Coding (ADM-MC) module serves as the "Central Nucleus" of the MediChain Hospital ERP system
+. It acts as the Single Source of Truth, ensuring that every patient has a unified "Digital Medical Identity" linked to their National ID to eliminate record duplication
+. This module is a technical prerequisite for all other departments; no medical procedure can be performed without identity verification and a completed "Risk Profile" from this system
+ 
+ ##  Strategic Objectives
+ * Zero Duplication: Enforcing the National ID as a unique key to prevent overlapping patient records
+.
+* Mandatory Risk Profiling: Making data regarding allergies, blood groups, and chronic diseases a technical constraint before any medication or surgery can be scheduled
+
 
 ---
 
 ## 👥 Team Members & Responsibilities
-*This table is flexible. Assign tasks based on team size (4 to 6 members).*
 
 | Member Name | Primary Responsibility | Assigned Tasks (Examples) | GitHub Profile |
 | :--- | :--- | :--- | :--- |
-| **Student 1 (Leader)** | Integration & Architecture | Component Diagrams, API Specs, Team Coordination | [Link] |
-| **Student 2** | Requirements & Analysis | Functional Requirements, Use Case Diagrams | [Link] |
-| **Student 3** | Process Modeling | Activity Diagrams, Business Rules Validation | [Link] |
-| **Student 4** | Data Design | ERD, Database Schema, Class Diagrams | [Link] |
-| **Student 5 (Optional)** | Interaction Design | Sequence Diagrams, Logic Flow | [Link] |
-| **Student 6 (Optional)** | UI/UX & Frontend | Wireframes, Interface Logic, User Stories | [Link] |
+| **Ali Ali** | Integration & Architecture | Component Diagrams, API Specs, Team Coordination | [https://github.com/aliali29] |
+| **Majd Omran** | Requirements & Analysis | Functional Requirements, Use Case Diagrams | [https://github.com/majdomran-it] |
+| **Mohammed Dandash** | Process Modeling | Activity Diagrams, Business Rules Validation | [https://github.com/MohamadDandash] |
+| **Hussien Mousa** | Data Design | ERD, Database Schema, Class Diagrams | [https://github.com/Husseinm963] |
+
 
 ---
 
