@@ -1,6 +1,6 @@
-﻿# Module Name: [e.g., Surgery Optimization System]
-## Project: [Hospital ERP / MediChain]
-**Module Code:** [e.g., SURG-05]
+﻿# Module Name: Admission & Medical Coding
+## Project: Hospital ERP / MediChain
+**Module Code:** ADM-MC
 
 ---
 
