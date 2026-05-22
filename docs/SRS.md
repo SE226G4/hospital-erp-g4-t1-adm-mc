@@ -107,7 +107,7 @@ Component Diagram : Illustrates ADM-MC as the Central Hub connected to PHM, SURG
 
 ### Appendix B: GitHub Traceability Checklist
 
-- [ ] **ARCH-01**: Component Diagram (Central Hub Architecture & API Endpoints) — *Assigned to: Ali Ali (Leader)* — [#1][issue-1]
+- [x] **ARCH-01**: Component Diagram (Central Hub Architecture & API Endpoints) — *Assigned to: Ali Ali (Leader)* — [#1][issue-1]
 - [ ] **UC-01**: Use Case Diagrams (Patient Registration & National ID Verification) — *Assigned to: Majd Omran* — [#2][issue-2]
 - [ ] **ACT-01**: Activity Diagrams (Validation Logic & Mandatory Risk Profile Flow) — *Assigned to: Mohammed Dandesh* — [#3][issue-3]
 - [ ] **DB-01**: Entity Relationship Diagram (ERD & Database Constraints) — *Assigned to: Hussien Mousa* — [#4][issue-4]
