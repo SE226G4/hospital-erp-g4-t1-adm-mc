@@ -1,9 +1,17 @@
-إليك وثيقة مواصفات الـ API بعد تنقيحها بالكامل وحذف جميع أرقام المصادر والأقواس المرتبطة بها، مع تحسين التنسيق لتصبح الوثيقة جاهزة وقابلة للقراءة المباشرة:
+# API Specifications — Module 1 (ADM-MC)
+
 وثيقة مواصفات الـ API (Module 1 - ADM-MC)
-1. نظرة عامة (Overview)
+
+## 1. نظرة عامة (Overview)
 
 يُعد موديول القبول والترميز "النواة المركزية" لنظام MediChain، حيث يقوم بتحويل الهوية القانونية (الرقم الوطني) إلى هوية رقمية طبية (patient_id) تُستخدم كـ Token وحيد للتعامل بين كافة موديولات النظام. يوفر الموديول واجهات برمجية لضمان سلامة المرضى من خلال "ملف المخاطر" وتتبع "حالات القبول" لربطها بالخدمات الطبية والمالية.
-2. نقاط النهاية الرئيسية (Main Endpoints)
+
+---
+
+## 2. نقاط النهاية الرئيسية (Main Endpoints)
+
+---
+
 Endpoint 1: Identity Verification & Digital ID Generation
 
     الطريقة: GET
@@ -19,6 +27,8 @@ Endpoint 1: Identity Verification & Digital ID Generation
         full_name (الاسم الكامل للمريض).
 
         registration_status (حالة التسجيل).
+
+---
 
 Endpoint 2: Get Patient Risk Profile (لخدمة موديول الصيدلية والعمليات)
 
@@ -36,23 +46,9 @@ Endpoint 2: Get Patient Risk Profile (لخدمة موديول الصيدلية �
 
         chronic_diseases (الأمراض المزمنة).
 
-Endpoint 3: Get Last Admission & Assigned Doctor (لخدمة موديول الصيدلية والمالية)
+---
 
-    الطريقة: GET
-
-    الوظيفة: استرجاع رقم آخر زيارة (قبول) واسم الطبيب المسؤول عن المريض لتسجيل عمليات صرف الأدوية أو الفوترة.
-
-    البيانات المطلوبة (Input): patient_id.
-
-    البيانات المسترجعة (Output):
-
-        last_admission_id (رقم آخر عملية قبول من جدول admissions).
-
-        admission_date (تاريخ الزيارة).
-
-        assigned_doctor_name (اسم الطبيب من جدول staff المرتبط بالسجل).
-
-Endpoint 4: Medical Coding (ICD-10) Sync
+Endpoint 3: Medical Coding (ICD-10) Sync
 
     الطريقة: POST
 
@@ -62,7 +58,9 @@ Endpoint 4: Medical Coding (ICD-10) Sync
 
     البيانات المسترجعة (Output): coding_status (تأكيد الربط).
 
-Endpoint 5: Emergency Access (Temporary ID)
+---
+
+Endpoint 4: Emergency Access (Temporary ID)
 
     الطريقة: POST
 
@@ -72,7 +70,9 @@ Endpoint 5: Emergency Access (Temporary ID)
 
     البيانات المسترجعة (Output): temp_id (من جدول emergency_logs).
 
-Endpoint 6: Get Financial Profile Context (لخدمة موديول الفوترة والتأمين)
+---
+
+Endpoint 5: Get Financial Profile Context (لخدمة موديول الفوترة والتأمين)
 
     الطريقة: GET
 
@@ -88,7 +88,9 @@ Endpoint 6: Get Financial Profile Context (لخدمة موديول الفوتر�
 
         registration_date: تاريخ التسجيل الأولي.
 
-Endpoint 7: Validate Admission for Billing (التحقق من صلاحية القبول للفوترة)
+---
+
+Endpoint 6: Validate Admission for Billing (التحقق من صلاحية القبول للفوترة)
 
     الطريقة: GET
 
