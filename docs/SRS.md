@@ -131,6 +131,28 @@ ADM-MC shall expose RESTful endpoints for identity verification, risk profile re
 ### 3.3 Performance Requirements
 Response Time: The system must respond to identity verification requests from other modules in less than 2 seconds to support real-time clinical workflows.
 
+* Logic and Exceptions (Emergency Fallback Flow)
+
+This section defines the system's behavior when standard business rules (such as mandatory National ID) cannot be met due to life-threatening conditions.
+
+### 3.3.1 Emergency Patient Intake (ID Bypass)
+In cases where a patient is unconscious or arrives without legal identification:
+Logic: The system shall trigger the Emergency Access endpoint to generate a temp_id from the emergency_logs table [1، 5].
+Data Requirements: Minimal data entry is required: arrival_time and a brief condition_summary.
+
+Exception Rule: The strict "National ID Unique" constraint (BR-01) is bypassed temporarily to ensure immediate clinical intervention.
+
+### 3.3.2 Risk Profile Exception in Critical Cases
+While the Risk Profile is normally mandatory for admission:
+
+Logic: For emergency admissions, the system allows "Partial Admission" to the ER or Surgery. However, a "Critical Data Missing" alert will be broadcast to the clinical modules.
+Safety Measure: The system will flag the status in emergency_logs as "Critical/Anonymous" until a blood group or allergy check can be performed.
+
+### 3.3.3 Identity Conversion (Post-Stabilization Logic)
+Once the patient is stabilized or identity documents are provided:
+Logic: The administrative staff must perform an "Identity Conversion." The system will update the converted_national_id field in the emergency_logs and link the temporary record to a permanent record in the patients table.
+
+
 ### 3.4 Logical Database Requirements
 (To be completed by Student 4: Describing Patient and Risk_Profile entities).
 
