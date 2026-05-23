@@ -39,11 +39,19 @@ The Admission & Medical Coding (ADM-MC) module serves as the "Central Nucleus" o
 
 ## 🔗 Integration Points
 *How this module communicates with others:*
-* **Inbound:** Data received from [Module Name].
-* **Outbound:** Data sent to [Module Name].
+* **Inbound:** Data received by ADM-MC
+	* National ID: Received during patient registration to verify identity and prevent duplicate records.
+	* Medical Risk Data: Received from medical staff to complete the "Risk Profile," including allergies, blood group, and chronic diseases.
+	
+* **Outbound:** Data sent by ADM-MC
+	* Patient ID (Token): Sent to all hospital departments (IPD-BED, SURG-OPT, ER-FLOW) as a mandatory authorization for patient admission and procedures.
+	* Allergy Status: Sent to Pharmacy (PHM-LOG) to prevent the dispensing of conflicting medications.
+	* Blood Group Verification: Sent to Surgery (SURG-OPT) to allow operation scheduling.
+	* Identity Feed: Sent to Finance (FIN-INS) to ensure all services are linked to a single, unified bill for the patient.
+	* Bed Allocation Authorization: Sent to Inpatient (IPD-BED) to permit bed assignment based on verified identity.
 
 ---
 ## 🛠 Tools Used
-* **Modeling:** e.g., StarUML / Lucidchart.
-* **Documentation:** Markdown / LaTeX.
+* **Modeling:** Draw.io.
+* **Documentation:** Markdown .
 * **Version Control:** GitHub.
