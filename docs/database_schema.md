@@ -1,6 +1,6 @@
 # Database Schema
 ## 1. Entity-Relationship Diagram (ERD)
-[ERDDiagram.png]
+<img src="Diagrams/FinalERDDDD.drawio.png" width="800">
 
 ## 2. Tables List
 
