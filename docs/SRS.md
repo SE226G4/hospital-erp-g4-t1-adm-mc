@@ -196,7 +196,7 @@ https://github.com/Husseinm963/ERD-source-code-ADM-MC.git)
 
 - [x] **ARCH-01**: Component Diagram (Central Hub Architecture & API Endpoints) — *Assigned to: Ali Ali (Leader)* — [#1][issue-1]
 - [x] **UC-01**: Use Case Diagrams (Patient Registration & National ID Verification) — *Assigned to: Majd Omran* — [#2][issue-2]
-- [ ] **ACT-01**: Activity Diagrams (Validation Logic & Mandatory Risk Profile Flow) — *Assigned to: Mohammed Dandesh* — [#3][issue-3]
+- [x] **ACT-01**: Activity Diagrams (Validation Logic & Mandatory Risk Profile Flow) — *Assigned to: Mohammed Dandesh* — [#3][issue-3]
 - [x] **DB-01**: Entity Relationship Diagram (ERD & Database Constraints) — *Assigned to: Hussien Mousa* — [#4][issue-4]
 - [x] **CLS-01**: Class Diagram (System Objects Structure, Attributes & Methods) — *Assigned to: Hussien Mousa & Ali Ali* — [#8][issue-8]
 
