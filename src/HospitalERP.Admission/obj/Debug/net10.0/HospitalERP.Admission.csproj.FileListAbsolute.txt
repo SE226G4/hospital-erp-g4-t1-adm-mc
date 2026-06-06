@@ -1,0 +1,12 @@
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.deps.json
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.dll
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.pdb
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.AssemblyInfoInputs.cache
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.AssemblyInfo.cs
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.csproj.CoreCompileInputs.cache
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.sourcelink.json
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.dll
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\refint\HospitalERP.Admission.dll
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.pdb
+C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\ref\HospitalERP.Admission.dll

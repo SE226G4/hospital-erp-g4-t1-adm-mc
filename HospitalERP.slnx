@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HospitalERP.Admission/HospitalERP.Admission.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HospitalERP.Admission.Tests/HospitalERP.Admission.Tests.csproj" />
+  </Folder>
+</Solution>
