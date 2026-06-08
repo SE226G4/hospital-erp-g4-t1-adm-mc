@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TECHNO\\Desktop\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TECHNO\\Desktop\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj": {
+    "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TECHNO\\Desktop\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj",
         "projectName": "HospitalERP.Admission",
-        "projectPath": "C:\\Users\\TECHNO\\Desktop\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj",
-        "packagesPath": "C:\\Users\\TECHNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TECHNO\\Desktop\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TECHNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
