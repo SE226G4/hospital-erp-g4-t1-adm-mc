@@ -10,6 +10,7 @@ C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\
 C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\refint\HospitalERP.Admission.dll
 C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.pdb
 C:\Users\TECHNO\Desktop\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\ref\HospitalERP.Admission.dll
+<<<<<<< HEAD
 C:\Users\DELL\Desktop\hospitadgit\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.deps.json
 C:\Users\DELL\Desktop\hospitadgit\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.dll
 C:\Users\DELL\Desktop\hospitadgit\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.pdb
@@ -22,3 +23,17 @@ C:\Users\DELL\Desktop\hospitadgit\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admi
 C:\Users\DELL\Desktop\hospitadgit\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\refint\HospitalERP.Admission.dll
 C:\Users\DELL\Desktop\hospitadgit\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.pdb
 C:\Users\DELL\Desktop\hospitadgit\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\ref\HospitalERP.Admission.dll
+=======
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.deps.json
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\bin\Debug\net10.0\HospitalERP.Admission.pdb
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.AssemblyInfoInputs.cache
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.AssemblyInfo.cs
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.csproj.CoreCompileInputs.cache
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.sourcelink.json
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\refint\HospitalERP.Admission.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\HospitalERP.Admission.pdb
+C:\Users\Evo.Store\Projects\TheUniversityProjects\G4-T1-ADM-MC subsystem\hospital-erp-g4-t1-adm-mc\src\HospitalERP.Admission\obj\Debug\net10.0\ref\HospitalERP.Admission.dll
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69

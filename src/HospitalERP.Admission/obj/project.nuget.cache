@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "w8mMx0N8zr8=",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj",
+=======
+  "dgSpecHash": "zsn1TiUBE0E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Evo.Store\\Projects\\TheUniversityProjects\\G4-T1-ADM-MC subsystem\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj",
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69
   "expectedPackageFiles": [],
   "logs": []
 }

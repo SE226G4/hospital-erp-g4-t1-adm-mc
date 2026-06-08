@@ -930,11 +930,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\DELL\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Evo.Store\\.nuget\\packages\\": {}
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\tests\\HospitalERP.Admission.Tests\\HospitalERP.Admission.Tests.csproj",
       "projectName": "HospitalERP.Admission.Tests",
       "projectPath": "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\tests\\HospitalERP.Admission.Tests\\HospitalERP.Admission.Tests.csproj",
@@ -943,6 +948,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\Evo.Store\\Projects\\TheUniversityProjects\\G4-T1-ADM-MC subsystem\\hospital-erp-g4-t1-adm-mc\\tests\\HospitalERP.Admission.Tests\\HospitalERP.Admission.Tests.csproj",
+      "projectName": "HospitalERP.Admission.Tests",
+      "projectPath": "C:\\Users\\Evo.Store\\Projects\\TheUniversityProjects\\G4-T1-ADM-MC subsystem\\hospital-erp-g4-t1-adm-mc\\tests\\HospitalERP.Admission.Tests\\HospitalERP.Admission.Tests.csproj",
+      "packagesPath": "C:\\Users\\Evo.Store\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Evo.Store\\Projects\\TheUniversityProjects\\G4-T1-ADM-MC subsystem\\hospital-erp-g4-t1-adm-mc\\tests\\HospitalERP.Admission.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Evo.Store\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -955,8 +970,13 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj": {
               "projectPath": "C:\\Users\\DELL\\Desktop\\hospitadgit\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj"
+=======
+            "C:\\Users\\Evo.Store\\Projects\\TheUniversityProjects\\G4-T1-ADM-MC subsystem\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj": {
+              "projectPath": "C:\\Users\\Evo.Store\\Projects\\TheUniversityProjects\\G4-T1-ADM-MC subsystem\\hospital-erp-g4-t1-adm-mc\\src\\HospitalERP.Admission\\HospitalERP.Admission.csproj"
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69
             }
           }
         }

@@ -5,12 +5,20 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\DELL\.nuget\packages\</NuGetPackageFolders>
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Evo.Store\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">7.0.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
     <SourceRoot Include="C:\Users\DELL\.nuget\packages\" />
+=======
+    <SourceRoot Include="C:\Users\Evo.Store\.nuget\packages\" />
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.runner.visualstudio.props" Condition="Exists('$(NuGetPackageRoot)xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.runner.visualstudio.props')" />
@@ -20,6 +28,10 @@
     <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
     <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\DELL\.nuget\packages\xunit.analyzers\1.18.0</Pkgxunit_analyzers>
+=======
+    <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\Evo.Store\.nuget\packages\xunit.analyzers\1.18.0</Pkgxunit_analyzers>
+>>>>>>> cc552854df7a0c1ade95488116dbc2563e015a69
   </PropertyGroup>
 </Project>
